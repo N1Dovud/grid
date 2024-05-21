@@ -16,7 +16,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Git Repo](https://github.com/N1Dovud/grid)
-- Live URL: (https://n1dovud.github.io/grid)
+- Live URL: [Git liveserver](https://n1dovud.github.io/grid)
 
 
 ### Built with
