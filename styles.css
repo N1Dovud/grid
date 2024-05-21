@@ -105,6 +105,7 @@ img {
 }
 @media (min-width: 550px) {
     main {
+        width: 80%;
         grid-template-columns: repeat(2, 1fr);
     }
     .purple {
@@ -125,6 +126,8 @@ img {
 @media (min-width: 900px) {
     main {
         grid-template-columns: repeat(4, 1fr);
+        height: 80%;
+        margin: auto;
     }
     .bigger {
         grid-row: 1 / 3;
